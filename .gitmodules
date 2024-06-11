@@ -1,0 +1,3 @@
+[submodule "statMix"]
+	path = statMix
+	url = https://github.com/raywray/statMix.git
