@@ -1,0 +1,138 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--fst-window-size 10000
+	--fst-window-step 10000
+	--weir-fst-pop pop1.txt
+	--weir-fst-pop pop2.txt
+	--keep pop1.txt
+	--keep pop2.txt
+	--stdout
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 37 out of 98 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.098724
+Weir and Cockerham weighted Fst estimate: 0.13405
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--fst-window-size 10000
+	--fst-window-step 10000
+	--weir-fst-pop pop1.txt
+	--weir-fst-pop pop3.txt
+	--keep pop1.txt
+	--keep pop3.txt
+	--stdout
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 59 out of 98 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.046223
+Weir and Cockerham weighted Fst estimate: 0.073875
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 1.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--fst-window-size 10000
+	--fst-window-step 10000
+	--weir-fst-pop pop1.txt
+	--weir-fst-pop pop4.txt
+	--keep pop1.txt
+	--keep pop4.txt
+	--stdout
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 38 out of 98 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.16446
+Weir and Cockerham weighted Fst estimate: 0.20919
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--fst-window-size 10000
+	--fst-window-step 10000
+	--weir-fst-pop pop2.txt
+	--weir-fst-pop pop3.txt
+	--keep pop2.txt
+	--keep pop3.txt
+	--stdout
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 60 out of 98 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.093583
+Weir and Cockerham weighted Fst estimate: 0.11786
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 1.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--fst-window-size 10000
+	--fst-window-step 10000
+	--weir-fst-pop pop2.txt
+	--weir-fst-pop pop4.txt
+	--keep pop2.txt
+	--keep pop4.txt
+	--stdout
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 39 out of 98 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.050652
+Weir and Cockerham weighted Fst estimate: 0.064704
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--fst-window-size 10000
+	--fst-window-step 10000
+	--weir-fst-pop pop3.txt
+	--weir-fst-pop pop4.txt
+	--keep pop3.txt
+	--keep pop4.txt
+	--stdout
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 61 out of 98 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.1619
+Weir and Cockerham weighted Fst estimate: 0.19482
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds

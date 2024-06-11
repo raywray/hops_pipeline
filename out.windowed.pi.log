@@ -1,0 +1,396 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--window-pi 10000
+	--window-pi-step 10000
+	--stdout
+	--indv backa
+	--indv bianca
+	--indv cascade
+	--indv easterngold
+	--indv hallertauergold
+	--indv hallertauermagnum
+	--indv hallertauertradition
+	--indv hersbruckerpure
+	--indv horizon
+	--indv hybrid2
+	--indv kirinc601
+	--indv magnumx21267m
+	--indv mtrainier
+	--indv nadwislanka
+	--indv newport
+	--indv nugget
+	--indv nuggeta
+	--indv omega
+	--indv orion
+	--indv osvald72yvf
+	--indv pioneer
+	--indv prideofringwood
+	--indv saazer38
+	--indv southernbrewer
+	--indv spalterselect
+	--indv sterling
+	--indv sunbeam
+	--indv tc8551
+	--indv tc8555
+	--indv teamaker
+	--indv tettnanger
+	--indv toyomidori
+	--indv usda21734
+	--indv wyechallenger
+	--indv wyetarget
+	--indv wyetargeta
+	--indv wyeviking
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 37 out of 98 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--window-pi 10000
+	--window-pi-step 10000
+	--stdout
+	--indv ahil
+	--indv alliance
+	--indv apolon
+	--indv aurora
+	--indv backa
+	--indv bianca
+	--indv bobek
+	--indv bramlingcross
+	--indv buket
+	--indv canterburygolding
+	--indv earlyprolific
+	--indv earlypromise
+	--indv easterngreen
+	--indv eastkentgolding
+	--indv eastwellgolding
+	--indv englishint30
+	--indv firstchoice
+	--indv fuggleh
+	--indv fugglen
+	--indv hallertauergold
+	--indv hallertauertradition
+	--indv hersbrucker
+	--indv hersbrucker6
+	--indv hersbruckeralpha
+	--indv hersbruckerpure
+	--indv hersbruckerredstem
+	--indv hersbruckg
+	--indv keyworthearly
+	--indv kitamidori
+	--indv mtrainier
+	--indv nadwislanka
+	--indv neoplanta
+	--indv northernbrewer
+	--indv omega
+	--indv orion
+	--indv osvald72yvf
+	--indv perle
+	--indv prideofkent
+	--indv saazer38
+	--indv savinjagolding
+	--indv scarlet
+	--indv sorachiace
+	--indv southernbrewer
+	--indv spalterselect
+	--indv sterling
+	--indv styrian
+	--indv sunbeam
+	--indv sunshine
+	--indv tardifdbourgogne
+	--indv tettnanger
+	--indv tolhurst
+	--indv vojvodina
+	--indv whitbredsgolding
+	--indv wuerttemberger
+	--indv wyechallenger
+	--indv wyesaxon
+	--indv wyeviking
+	--indv yeoman
+	--indv yuggolding
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 59 out of 98 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--window-pi 10000
+	--window-pi-step 10000
+	--stdout
+	--indv aquila
+	--indv atlas
+	--indv backa
+	--indv banner
+	--indv bianca
+	--indv brewersgold
+	--indv brewersgolda
+	--indv bullion10a
+	--indv canadianredvine
+	--indv centennial
+	--indv chelan
+	--indv chinook
+	--indv comet
+	--indv cometa
+	--indv eroicavf
+	--indv furanoace
+	--indv galena
+	--indv hallertauergold
+	--indv hallertauertradition
+	--indv hersbruckerpure
+	--indv keyworthmidseason
+	--indv kirinii
+	--indv mtrainier
+	--indv nadwislanka
+	--indv olympic
+	--indv omega
+	--indv orion
+	--indv osvald72yvf
+	--indv saazer38
+	--indv shinshuwase
+	--indv southernbrewer
+	--indv spalterselect
+	--indv sterling
+	--indv sunbeam
+	--indv talisman
+	--indv tettnanger
+	--indv wyechallenger
+	--indv wyeviking
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 38 out of 98 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 1.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--window-pi 10000
+	--window-pi-step 10000
+	--stdout
+	--indv ahil
+	--indv alliance
+	--indv apolon
+	--indv aurora
+	--indv bobek
+	--indv bramlingcross
+	--indv buket
+	--indv canterburygolding
+	--indv cascade
+	--indv earlyprolific
+	--indv earlypromise
+	--indv easterngold
+	--indv easterngreen
+	--indv eastkentgolding
+	--indv eastwellgolding
+	--indv englishint30
+	--indv firstchoice
+	--indv fuggleh
+	--indv fugglen
+	--indv hallertauermagnum
+	--indv hersbrucker
+	--indv hersbrucker6
+	--indv hersbruckeralpha
+	--indv hersbruckerredstem
+	--indv hersbruckg
+	--indv horizon
+	--indv hybrid2
+	--indv keyworthearly
+	--indv kirinc601
+	--indv kitamidori
+	--indv magnumx21267m
+	--indv neoplanta
+	--indv newport
+	--indv northernbrewer
+	--indv nugget
+	--indv nuggeta
+	--indv perle
+	--indv pioneer
+	--indv prideofkent
+	--indv prideofringwood
+	--indv savinjagolding
+	--indv scarlet
+	--indv sorachiace
+	--indv styrian
+	--indv sunshine
+	--indv tardifdbourgogne
+	--indv tc8551
+	--indv tc8555
+	--indv teamaker
+	--indv tolhurst
+	--indv toyomidori
+	--indv usda21734
+	--indv vojvodina
+	--indv whitbredsgolding
+	--indv wuerttemberger
+	--indv wyesaxon
+	--indv wyetarget
+	--indv wyetargeta
+	--indv yeoman
+	--indv yuggolding
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 60 out of 98 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--window-pi 10000
+	--window-pi-step 10000
+	--stdout
+	--indv aquila
+	--indv atlas
+	--indv banner
+	--indv brewersgold
+	--indv brewersgolda
+	--indv bullion10a
+	--indv canadianredvine
+	--indv cascade
+	--indv centennial
+	--indv chelan
+	--indv chinook
+	--indv comet
+	--indv cometa
+	--indv easterngold
+	--indv eroicavf
+	--indv furanoace
+	--indv galena
+	--indv hallertauermagnum
+	--indv horizon
+	--indv hybrid2
+	--indv keyworthmidseason
+	--indv kirinc601
+	--indv kirinii
+	--indv magnumx21267m
+	--indv newport
+	--indv nugget
+	--indv nuggeta
+	--indv olympic
+	--indv pioneer
+	--indv prideofringwood
+	--indv shinshuwase
+	--indv talisman
+	--indv tc8551
+	--indv tc8555
+	--indv teamaker
+	--indv toyomidori
+	--indv usda21734
+	--indv wyetarget
+	--indv wyetargeta
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 39 out of 98 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 0.00 seconds
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--window-pi 10000
+	--window-pi-step 10000
+	--stdout
+	--indv ahil
+	--indv alliance
+	--indv apolon
+	--indv aquila
+	--indv atlas
+	--indv aurora
+	--indv banner
+	--indv bobek
+	--indv bramlingcross
+	--indv brewersgold
+	--indv brewersgolda
+	--indv buket
+	--indv bullion10a
+	--indv canadianredvine
+	--indv canterburygolding
+	--indv centennial
+	--indv chelan
+	--indv chinook
+	--indv comet
+	--indv cometa
+	--indv earlyprolific
+	--indv earlypromise
+	--indv easterngreen
+	--indv eastkentgolding
+	--indv eastwellgolding
+	--indv englishint30
+	--indv eroicavf
+	--indv firstchoice
+	--indv fuggleh
+	--indv fugglen
+	--indv furanoace
+	--indv galena
+	--indv hersbrucker
+	--indv hersbrucker6
+	--indv hersbruckeralpha
+	--indv hersbruckerredstem
+	--indv hersbruckg
+	--indv keyworthearly
+	--indv keyworthmidseason
+	--indv kirinii
+	--indv kitamidori
+	--indv neoplanta
+	--indv northernbrewer
+	--indv olympic
+	--indv perle
+	--indv prideofkent
+	--indv savinjagolding
+	--indv scarlet
+	--indv shinshuwase
+	--indv sorachiace
+	--indv styrian
+	--indv sunshine
+	--indv talisman
+	--indv tardifdbourgogne
+	--indv tolhurst
+	--indv vojvodina
+	--indv whitbredsgolding
+	--indv wuerttemberger
+	--indv wyesaxon
+	--indv yeoman
+	--indv yuggolding
+
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Warning: Expected at least 2 parts in FORMAT entry: ID=PL,Number=.,Type=Float,Description="Normalized, Phred-scaled likelihoods for AA,AB,BB genotypes where A=ref and B=alt; not applicable if site is not biallelic">
+Keeping individuals in 'keep' list
+After filtering, kept 61 out of 98 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+After filtering, kept 27163 out of a possible 27163 Sites
+Run Time = 1.00 seconds
