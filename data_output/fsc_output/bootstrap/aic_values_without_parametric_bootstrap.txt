@@ -1,0 +1,10 @@
+hops_random_model_899 81197.3302917588
+hops_random_model_211 81625.2524525335
+hops_random_model_754 81706.9641626697
+hops_random_model_635 82439.6223572702
+hops_random_model_449 82480.7857980365
+hops_random_model_550 82579.264113433
+hops_random_model_640 82601.1882551838
+hops_random_model_541 82651.4317354176
+hops_random_model_675 82834.8440239412
+hops_random_model_778 82917.767967341
