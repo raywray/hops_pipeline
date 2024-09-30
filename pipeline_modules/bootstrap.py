@@ -40,8 +40,11 @@ def visualize_model_fit(prefix, best_runs_base_dir):
             "/home/raya/Documents/Projects/hops_pipeline/utilities/SFStools.r"
         )
         plotmodel_ex = (
-            "/home/raya/Documents/Projects/hops_pipeline/utilities/plotModel.r"
+            "/home/raya/Documents/Projects/hops_pipeline/utilities/ParFileViewer.r"
         )
+        # plotmodel_ex = (
+        #     "/home/raya/Documents/Projects/hops_pipeline/utilities/plotModel.r"
+        # )
 
         os.chdir(cur_fsc_output_dir)
         # run sfs tools: NOTE: this does not work, but idk how to fix it
@@ -58,7 +61,8 @@ def visualize_model_fit(prefix, best_runs_base_dir):
         populations = ",".join(populations_list)
 
         print("TRYING PLOT MODEL***************************")
-        run_plotmodel = [plotmodel_ex, "-p", prefix, "-l", populations]
+        # run_plotmodel = [plotmodel_ex, "-p", prefix, "-l", populations]
+        run_plotmodel = ["Rscript", plotmodel_ex, f"{prefix}_maxL.par"]
         utilities.execute_command(run_plotmodel)
 
 def calculate_aic_per_sim(base_output_dir, prefix):
@@ -119,7 +123,7 @@ def run():
     # find_best_models.run(prefix, local_best_runs_dir)
 
     # step 3: calculate AIC and plot
-    aic_calculation_comparisons_and_plots(best_runs_out_dir, prefix, local_aic_filepath)
+    # aic_calculation_comparisons_and_plots(best_runs_out_dir, prefix, local_aic_filepath)
 
     # step 4: visualize model fit
     visualize_model_fit(prefix, best_runs_out_dir)
