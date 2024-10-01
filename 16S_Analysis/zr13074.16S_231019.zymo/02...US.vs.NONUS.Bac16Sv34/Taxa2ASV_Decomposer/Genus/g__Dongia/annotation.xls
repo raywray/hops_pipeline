@@ -1,0 +1,485 @@
+seq_id	seq_identity(%)	ref_id	ref_taxonomy
+seq153	Dongia;sp46092
+	96.8	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.5	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.0	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.5	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.3	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.8	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.8	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	92.3	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	92.3	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	92.0	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	92.0	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	91.3	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+seq186	Dongia;sp46092
+	98.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.8	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	94.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.3	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	94.3	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	94.0	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	94.0	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.1	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.8	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.8	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.3	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.1	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+seq301	Dongia;sp46093
+	99.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	98.8	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.0	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	94.3	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	94.3	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	94.3	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	93.8	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.8	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	93.5	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.3	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	92.8	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	92.8	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	92.5	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	92.5	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	92.3	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	92.3	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	92.0	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	92.0	ZR.DB.45052	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Azospirillum;s__sp45962
+	91.8	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.0	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+	90.0	ZR.DB.44795	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__Acidocella;s__sp45541
+seq366	Dongia;sp46092
+	98.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.5	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	94.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	94.5	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.3	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	94.3	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	94.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.3	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	92.0	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.8	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.5	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	91.0	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+seq421	Dongia;sp46092
+	96.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.3	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.3	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.0	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.8	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.8	ZR.DB.45778	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45912
+	92.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	92.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	92.3	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	91.5	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+seq623	Dongia;sp46092
+	96.8	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	96.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	95.8	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.3	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	94.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	94.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	93.3	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	93.0	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	93.0	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	92.5	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	92.5	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	92.5	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.5	ZR.DB.45490	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46500
+	92.5	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	92.0	ZR.DB.45802	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45938
+	91.8	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	91.3	ZR.DB.45753	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45887
+	91.3	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	91.3	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.0	ZR.DB.45741	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45865
+	91.0	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+	91.0	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	90.5	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	90.5	ZR.DB.45711	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45816
+	90.5	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+seq642	Dongia;sp46092
+	97.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	94.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.0	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.8	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.3	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.0	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	92.8	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	91.8	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.8	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.5	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.5	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	90.8	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+seq773	Dongia;sp46092
+	97.8	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	96.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	93.5	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	93.5	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	93.5	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	93.5	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	93.5	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.3	ZR.DB.45726	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45880
+	93.0	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	93.0	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.8	ZR.DB.45680	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45845
+	92.8	ZR.DB.45673	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45838
+	92.8	ZR.DB.45748	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45858
+	92.5	ZR.DB.45701	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45800
+	92.5	ZR.DB.45671	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45836
+	92.5	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	92.5	ZR.DB.45685	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45850
+	92.5	ZR.DB.45683	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45848
+	92.3	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	92.3	ZR.DB.45300	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Skermanella;s__sp46218
+	92.3	ZR.DB.45052	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Azospirillum;s__sp45962
+	92.3	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.0	ZR.DB.45711	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45816
+	92.0	ZR.DB.45741	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45865
+	91.8	ZR.DB.45664	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45829
+	91.8	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.8	ZR.DB.45728	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45878
+	91.8	ZR.DB.45732	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45874
+	91.5	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	91.3	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.3	ZR.DB.45733	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45873
+	91.0	ZR.DB.44771	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__Acidiphilium;s__sp45507
+	91.0	ZR.DB.45735	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45884
+	91.0	ZR.DB.45722	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45856
+	91.0	ZR.DB.45691	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45840
+	91.0	ZR.DB.45693	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45813
+	91.0	ZR.DB.45729	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45877
+	91.0	ZR.DB.45665	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45830
+	90.8	ZR.DB.45753	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45887
+	90.8	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	90.8	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	90.8	ZR.DB.45723	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45883
+	90.8	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	90.5	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+	90.0	ZR.DB.G.44869	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__Gluconobacter;s__Gluconobacter oxydans
+	90.0	ZR.DB.G.44870	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__Gluconobacter;s__Gluconobacter oxydans
+	90.0	ZR.DB.G.44874	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__Gluconobacter;s__Gluconobacter uchimurae
+	90.0	ZR.DB.G.44871	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__Gluconobacter;s__Gluconobacter oxydans
+	90.0	ZR.DB.45019	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__unidentified;s__sp45786
+	90.0	ZR.DB.45018	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Acetobacteraceae;g__unidentified;s__sp45783
+seq991	Dongia;sp46092
+	97.0	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.3	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.0	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.8	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.3	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.8	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.8	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	92.6	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	92.3	ZR.DB.45778	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45912
+	91.8	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.8	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.6	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+	91.1	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+seq1864	Dongia;sp46092
+	97.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.8	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	94.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.0	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.8	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.3	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.3	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	92.8	ZR.DB.45778	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45912
+	92.3	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	92.1	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.6	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.6	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.1	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+seq2251	Dongia;sp46094
+	99.8	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	94.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	93.5	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.5	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	92.3	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	92.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	91.5	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	91.5	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.0	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	91.0	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	90.8	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	90.3	ZR.DB.45741	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45865
+	90.3	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	90.0	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+seq2777	Dongia;sp46092-sp46093
+	97.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	97.0	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	95.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.8	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	92.8	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	92.8	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	92.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+seq3567	Dongia;sp46093
+	96.8	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	96.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	95.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	95.0	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.3	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	94.3	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.5	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	93.3	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.0	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	92.3	ZR.DB.45778	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45912
+	92.0	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	92.0	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	91.5	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.3	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.0	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+seq3570	Dongia;sp46092-sp46093
+	97.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.5	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	97.0	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.0	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	94.0	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	93.3	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	93.3	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.0	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	93.0	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	92.8	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	92.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	92.3	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	91.8	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	91.5	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	91.5	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.5	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	91.3	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	91.3	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+	91.3	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.3	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.0	ZR.DB.45728	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45878
+seq3768	Dongia;sp46092
+	97.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	94.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.0	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.8	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.0	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	92.8	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	92.0	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.8	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.5	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.0	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+seq4517	Dongia;sp46094
+	100.0	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.5	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	94.0	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.8	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	93.3	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	92.3	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	92.3	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	92.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	91.8	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	91.5	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.3	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	91.0	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	90.8	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	90.5	ZR.DB.45741	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45865
+	90.3	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	90.0	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+seq4657	Dongia;sp46092
+	97.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.3	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	96.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.0	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	94.0	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	93.3	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	93.0	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.0	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	93.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.8	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.5	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	92.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	91.8	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.8	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	91.5	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.5	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+	91.5	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	91.5	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	91.3	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.3	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+seq4915	Dongia;sp46092
+	97.0	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.8	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.3	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.8	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.8	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.5	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	93.0	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.0	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	92.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	92.5	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.5	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	92.3	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	92.3	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.8	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	91.5	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	91.3	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	91.3	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+seq5043	Dongia;sp46092
+	98.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	95.3	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.3	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	94.3	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	94.0	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	93.8	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	93.8	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	93.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	93.5	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	93.3	ZR.DB.45750	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45888
+	93.3	ZR.DB.45490	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46500
+	93.3	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.0	ZR.DB.45802	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45938
+	92.3	ZR.DB.45741	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45865
+	92.3	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	92.3	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	92.0	ZR.DB.45753	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45887
+	91.8	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	91.5	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.5	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	91.5	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	91.5	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.3	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	91.0	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	90.8	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+	90.8	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+	90.8	ZR.DB.45757	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45892
+	90.5	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+seq5248	Dongia;sp46092
+	93.8	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	93.5	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+seq5264	Dongia;sp46092
+	98.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	94.8	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	94.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.5	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	94.3	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	94.0	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.0	ZR.DB.45606	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46508
+	94.0	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	93.3	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	93.0	ZR.DB.45695	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45803
+	92.8	ZR.DB.45741	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45865
+	92.5	ZR.DB.45738	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45868
+	92.5	ZR.DB.45726	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45880
+	92.3	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	92.0	ZR.DB.45759	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45904
+	91.3	ZR.DB.45772	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45908
+seq5346	Dongia;sp46092
+	96.8	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	96.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	95.3	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	94.0	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	94.0	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	94.0	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.1	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.3	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	92.1	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.8	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257
+seq5399	Dongia;sp46092
+	94.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	94.3	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	92.8	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	92.0	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	92.0	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	91.8	ZR.DB.45778	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45912
+	91.5	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	91.3	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	91.0	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	91.0	ZR.DB.45748	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45858
+	91.0	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	90.8	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	90.8	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	90.5	ZR.DB.45728	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45878
+	90.3	ZR.DB.45722	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45856
+	90.3	ZR.DB.45740	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45866
+	90.0	ZR.DB.45708	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45810
+	90.0	ZR.DB.45726	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45880
+seq5848	Dongia;sp46092
+	94.3	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	94.0	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	91.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	91.8	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	91.5	ZR.DB.45773	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45913
+	91.5	ZR.DB.45673	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45838
+	91.5	ZR.DB.45778	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45912
+	91.0	ZR.DB.45775	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45910
+	90.8	ZR.DB.45780	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45916
+	90.8	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	90.8	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	90.8	ZR.DB.45748	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45858
+	90.5	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	90.5	ZR.DB.45683	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45848
+	90.5	ZR.DB.45680	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45845
+	90.5	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	90.3	ZR.DB.45728	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45878
+	90.3	ZR.DB.45731	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45875
+	90.0	ZR.DB.45722	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45856
+seq6872	Dongia;sp46092
+	97.5	ZR.DB.45182	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46092
+	97.3	ZR.DB.45183	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46093
+	96.3	ZR.DB.45181	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__Dongia mobilis
+	93.5	ZR.DB.45787	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45921
+	93.5	ZR.DB.45754	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45885
+	93.5	ZR.DB.43828	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhizobiales;f__unidentified;g__unidentified;s__sp43494
+	93.5	ZR.DB.45749	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45891
+	93.5	ZR.DB.45603	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__unidentified;s__sp46420
+	93.3	ZR.DB.45698	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45808
+	93.3	ZR.DB.45184	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Dongia;s__sp46094
+	93.3	ZR.DB.45721	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45857
+	93.0	ZR.DB.45743	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45863
+	92.8	ZR.DB.45676	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45854
+	92.5	ZR.DB.45679	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45844
+	92.0	ZR.DB.45734	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45872
+	92.0	ZR.DB.45210	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__Lacibacterium;s__Lacibacterium aquatile
+	91.8	ZR.DB.45728	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45878
+	91.5	ZR.DB.45733	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45873
+	91.5	ZR.DB.45751	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45889
+	91.0	ZR.DB.46539	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47260
+	91.0	ZR.DB.46544	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47256
+	90.8	ZR.DB.46543	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rickettsiales;f__unidentified;g__unidentified;s__sp47257

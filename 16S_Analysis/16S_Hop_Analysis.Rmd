@@ -1,0 +1,261 @@
+---
+title: "HOP_SOIL_DIVERSITY"
+output: pdf
+date: "`r Sys.Date()`"
+---
+
+# 16s HOP Analysis Draft
+
+## Library Import
+```{r}
+# setwd("your/current/path/here/16S_Hop_Analysis")
+#NOTE: Install missing packages using install.packages("name_of_package")
+library(tidyverse)
+library(data.table)
+library(reshape2)
+library(readxl)
+library(fuzzyjoin)
+library(corrplot)
+library(factoextra)
+library(vegan)
+library(olsrr)
+library(car)
+library(GGally)
+library(performance)
+library(ggfortify)
+library(lmtest)
+library(VGAM)
+library(nlme)
+```
+
+## Data Wrangling
+```{r}
+# Import Growth Data
+growth_data <- fread("Growth vs N and P.csv")
+# Read N fixing data
+N_data <- read_excel("Bacteria_N_fixing.xlsx")
+
+filtered_N <- N_data[N_data$`Nitrogen Fixing` %in% c("yes", "no"), ]
+
+filtered_N <- cbind(N_data$Genus, N_data$`Nitrogen Fixing`)
+colnames(filtered_N) <- c("Genus", "N_Fixing")
+
+# Obtaining a clean R object that has genera present in the zymo files...
+present_genera <- read.csv("present_g.csv")
+colnames(present_genera) <- c("Genus")
+
+n_fixing_data <- filtered_N
+n_fixing_data <- as.data.frame(n_fixing_data)
+
+# Filtering n_fixing data to contain only records present in the zymno dataset
+filtered_genera <- n_fixing_data[n_fixing_data$Genus %in% c(present_genera$Genus), ]
+
+# Change origin and variety value to factor data type
+growth_data$Origin <- as.factor(growth_data$Origin)
+growth_data$Variety <- as.factor(growth_data$Variety)
+# Normalize the RGR and DIN so they are both in the same ranges
+growth_data$RGR <- scale(growth_data$RGR)
+growth_data$`[DIN] 10/17` <- scale(growth_data$`[DIN] 10/17`)
+growth_data <- growth_data %>%
+  select(Origin, Variety, `[DIN] 10/17`, RGR) %>%
+  group_by(Variety, Origin) %>%
+  summarise(
+    mean_nitrogen = mean(`[DIN] 10/17`),
+    mean_RGR = mean(RGR)
+  )
+# Function to read relative abundance files and sum the abundance values
+read_preprocess_file <- function(genus_name) {
+  relative_abundance_data <- as.data.frame(fread(
+    paste("./zr13074.16S_231019.zymo/02...US.vs.NONUS.Bac16Sv34",
+      "/Taxa2ASV_Decomposer/Genus/", "g__",
+      genus_name, "/seq.relative.abun.transpose.csv",
+      sep = ""
+    )
+  ))
+  colsum <- colSums(relative_abundance_data[, -1], na.rm = TRUE)
+  colsum$genus <- genus_name
+  return(colsum)
+}
+# Apply the function
+relative_abundance_files <- mapply(read_preprocess_file,
+  filtered_genera$Genus,
+  SIMPLIFY = FALSE
+)
+# Simplify the mapply output
+relative_abundance_files_unzipped <- as.data.frame(
+  do.call(rbind, relative_abundance_files)
+)
+# Unlist the output
+rel_abun_unlisted <- as.data.frame(unnest(
+  relative_abundance_files_unzipped,
+  colnames(relative_abundance_files_unzipped)
+))
+
+# Change data to long format to be able to merge other datasets
+melt_rel_abun <- melt(rel_abun_unlisted[, -22])
+# Function to read absolute abundance files
+read_preprocess_file_absolute <- function(genus_name) {
+  abs_abundance_data <- as.data.frame(fread(paste(
+    "./zr13074.16S_231019.zymo/02...US.vs.NONUS.Bac16Sv34",
+    "/Taxa2ASV_Decomposer/Genus/", "g__", genus_name,
+    "/seq.counts.csv",
+    sep = ""
+  )))
+  rowsum <- rowSums(abs_abundance_data[, -1], na.rm = TRUE)
+  rowsum$genus <- genus_name
+  return(rowsum)
+}
+# Apply the function
+absolute_abundance_files <- mapply(read_preprocess_file_absolute,
+  filtered_genera$Genus,
+  SIMPLIFY = FALSE
+)
+# Simplify the output
+absolute_abundance_files_unzipped <- as.data.frame(
+  do.call(rbind, absolute_abundance_files)
+)
+# Unlist the output
+abs_abun_unlisted <- as.data.frame(unnest(
+  absolute_abundance_files_unzipped, colnames(absolute_abundance_files_unzipped)
+))
+# change dataframe column names
+colnames(abs_abun_unlisted) <- c(
+  "Control.CSUSM", "Zeus.CSUSM",
+  "Brewers.Gold.CSUSM", "Neo1.CSUSM",
+  "Comet.CSUSM", "Columbus.CSUSM",
+  "Saaz72.CSUSM", "Sorachi.Ace.CSUSM",
+  "Southern.Cross.CSUSM", "Hallertauer.CSUSM",
+  "Fuggle.UK", "genus"
+)
+
+melt_abs_abun <- melt(abs_abun_unlisted[, -23])
+
+rel_abun_growth <- melt_rel_abun %>%
+  regex_inner_join(growth_data, by = c(variable = "Variety"))
+
+rel_abun_growth <- subset(rel_abun_growth, select = -4)
+
+rel_abun_growth_nfix <- rel_abun_growth %>%
+  inner_join(filtered_genera, by = c("genus" = "Genus"))
+
+rel_abun_growth_nfix_abs_abun <- rel_abun_growth_nfix %>%
+  inner_join(melt_abs_abun, by = c("genus", "variable"))
+
+# Assign column names
+colnames(rel_abun_growth_nfix_abs_abun) <- c(
+  "genus", "cultivar", "genus_rel_abun",
+  "origin", "mean_DIN", "mean_RGR",
+  "n_fixing", "genus_abs_abun"
+)
+# scale data to run regression analyses
+rel_abun_growth_nfix_abs_abun$genus_abs_abun <- scale(
+  rel_abun_growth_nfix_abs_abun$genus_abs_abun
+)
+rel_abun_growth_nfix_abs_abun$genus_rel_abun <- scale(
+  rel_abun_growth_nfix_abs_abun$genus_rel_abun
+)
+rel_abun_growth_nfix_abs_abun$mean_DIN <- scale(
+  rel_abun_growth_nfix_abs_abun$mean_DIN
+)
+rel_abun_growth_nfix_abs_abun$mean_RGR <- scale(
+  rel_abun_growth_nfix_abs_abun$mean_RGR
+)
+rel_abun_growth_nfix_abs_abun$n_fixing <- as.factor(
+  rel_abun_growth_nfix_abs_abun$n_fixing
+)
+
+# Rename unified data frame
+rel_unified <- (rel_abun_growth_nfix_abs_abun)
+# Remove rows where nitrogen fixing is indeterminate or x
+rel_unified <- rel_unified %>%
+  filter(!(n_fixing %in% c("Indeterminate", "x")))
+# Set factor levels for nitrogen fixing
+rel_unified$n_fixing <- factor(rel_unified$n_fixing, levels = c("No", "Yes"))
+# Remove duplicated rows
+rel_unified <- unique(rel_unified)
+
+# Conflicting nitrogen fixing genera that need to be filtered from rel_unified data frame.
+
+rel_unified <- rel_unified %>%
+  filter(!(genus == "Solibacter" & n_fixing == "Yes"))
+rel_unified <- rel_unified %>%
+  filter(!(genus == "Variibacter" & n_fixing == "No"))
+rel_unified <- rel_unified %>%
+  filter(!(genus == "Streptomyces" & n_fixing == "No"))
+
+```
+
+
+
+## Model fitting
+
+### Linear model
+```{r}
+lm_rgr <- lm(mean_RGR ~ mean_DIN + genus_rel_abun + n_fixing, data = rel_unified)
+
+# Model diagnostics
+autoplot(lm_rgr)
+# heteroscedastic looking residuals for the model. Autoplot show's we do not meet the assumption of normality. present plot in supplementary material
+
+bptest(lm_rgr)
+# Breusch-Pagan test for heteroscedasticity.
+# From the results of the Breusch-Pagan test we can reject the assumption of homoscedasticity.
+vif(lm_rgr)
+# The adjusted generalized variance inflation factor for each of our predictors is less than 10. 
+# This imples that our predictors are not autocorrelated with one another. **make table
+qqnorm(residuals(lm_rgr))
+qqline(residuals(lm_rgr))
+qqPlot(lm_rgr)
+hist(residuals(lm_rgr))
+durbinWatsonTest(lm_rgr)
+# We do not meet the assumption of independence of residuals
+summary(lm_rgr)
+
+# Fitting GLM considering we do not meet the assumptions of general linear models
+```
+
+
+### Generalized linear model
+```{r}
+# Check normality of mean_RGR(response variable)
+shapiro.test(rel_unified$mean_RGR)
+hist(rel_unified$mean_RGR)
+qqnorm(rel_unified$mean_RGR)
+qqline(rel_unified$mean_RGR)
+# # Response variable is not normally distributed
+
+# Response variable transformation.
+# Shift all values in response variable to be positive in order to fit poisson GLM with log link function
+min_value <- min(rel_unified$mean_RGR)
+shift_constant <- abs(min_value) + 1
+rel_unified$shifted_mean_RGR <- rel_unified$mean_RGR + shift_constant
+
+# GLM fitting.
+poi_glm <- glm(shifted_mean_RGR ~ mean_DIN + genus_rel_abun + n_fixing, data = rel_unified, family = poisson(link = "log"))
+vif(poi_glm)
+summary(poi_glm)
+# Model shows underdispersion. Refitting with quasipoisson to address underdispersion.
+
+# Quasi-poisson GLM fitting
+quasi_poi_glm <- glm(shifted_mean_RGR ~ mean_DIN + genus_rel_abun + n_fixing, data = rel_unified, family = quasipoisson(link = "log"))
+summary(quasi_poi_glm)
+
+# Dispersion parameter 0.248. Mean dissoved nitrogen is the only predictor with significant effect on mean RGR.
+
+```
+
+## Plots
+
+```{r}
+par(mfrow = c(2, 2))
+plot(quasi_poi_glm)
+
+rel_unified$predicted <- predict(quasi_poi_glm, type = "response")
+
+ggplot(rel_unified, aes(x = mean_DIN, y = mean_RGR)) +
+  geom_point() +
+  geom_line(aes(y = predicted), color = "blue") +
+  labs(title = "Quasi-Poisson GLM Fit of Mean Relative Growth Rate against Mean Dissolved Nitrogen", x = "mean_DIN", y = "mean_RGR")
+
+
+```

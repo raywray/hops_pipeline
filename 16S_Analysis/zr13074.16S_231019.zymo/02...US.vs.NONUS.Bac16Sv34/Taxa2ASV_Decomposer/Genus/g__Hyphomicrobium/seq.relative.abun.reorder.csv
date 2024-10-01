@@ -1,0 +1,12 @@
+sample_id,seq48 Hyphomicrobium;denitrificans,seq89 Hyphomicrobium;sp43604,seq350 Hyphomicrobium;sp43599,seq490 Hyphomicrobium;sp43607,seq701 Hyphomicrobium;nitrativorans,seq758 Hyphomicrobium;denitrificans,seq881 Hyphomicrobium;facile,seq1096 Hyphomicrobium;methylovorum,seq1395 Hyphomicrobium;sp43604,seq1420 Hyphomicrobium;sp43607,seq1387 Hyphomicrobium;sp43604,seq1497 Hyphomicrobium;denitrificans,seq1862 Hyphomicrobium;methylovorum,seq1367 Hyphomicrobium;sulfonivorans,seq2584 Hyphomicrobium;denitrificans-facile,seq2516 Hyphomicrobium;methylovorum,seq2429 Hyphomicrobium;denitrificans,seq2816 Hyphomicrobium;facile,seq3955 Hyphomicrobium;sp43599,seq4282 Hyphomicrobium;sp43599,seq3762 Hyphomicrobium;methylovorum,seq4747 Hyphomicrobium;facile,seq6465 Hyphomicrobium;sp43613-sp43696,seq6459 Hyphomicrobium;facile,seq6737 Hyphomicrobium;facile,seq5622 Hyphomicrobium;facile,seq5021 Hyphomicrobium;facile,seq3509 Hyphomicrobium;sp43599,seq3742 Hyphomicrobium;zavarzinii
+Control.CSUSM,0.0018,0.0007,0,0.0002,0.0001,0.0001,0,0.0002,0.0001,0.0001,0,0,0,0,0,0,0,0,0,0.0001,0,0,0,0,0,0,0,0,0
+Zeus.CSUSM,0.0031,0.0035,0.0002,0.0003,0.0001,0.0003,0.0005,0,0,0.0001,0,0,0.0002,0.0001,0,0,0.0001,0,0,0,0,0,0,0,0,0,0,0,0
+Brewers.Gold.CSUSM,0.0027,0.0023,0.0013,0.0004,0.0002,0.0001,0.0001,0.0003,0.0001,0,0,0.0001,0,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neo1.CSUSM,0.0054,0.0024,0.0006,0.0008,0.0004,0.0002,0.0003,0.0001,0.0002,0.0002,0.0002,0,0.0002,0.0001,0,0.0001,0.0001,0,0,0,0,0,0,0,0,0,0,0,0
+Comet.CSUSM,0.0027,0.0011,0.0005,0.0001,0.0004,0.0001,0,0,0,0.0001,0.0001,0,0,0,0,0,0,0,0.0001,0,0,0,0,0,0,0,0,0,0
+Columbus.CSUSM,0.0027,0.0012,0.0003,0.0001,0.0002,0.0002,0.0001,0,0,0.0001,0,0.0001,0,0,0.0001,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saaz72.CSUSM,0.0024,0.0009,0.0003,0.0003,0.0002,0.0001,0.0001,0.0003,0,0,0,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sorachi.Ace.CSUSM,0.0026,0.0024,0.0007,0.0003,0.0001,0.0004,0.0002,0,0,0,0,0.0001,0,0,0,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southern.Cross.CSUSM,0.0029,0.0016,0.0008,0.0004,0.0003,0.0001,0.0002,0.0001,0,0,0.0002,0,0,0.0001,0,0,0.0001,0.0001,0,0,0,0,0,0,0,0,0,0,0
+Hallertauer.CSUSM,0.002,0.0021,0.001,0.0007,0.0004,0.0001,0.0001,0,0.0001,0,0.0002,0.0002,0,0.0001,0,0,0,0,0,0,0.0001,0,0,0,0,0,0,0,0
+Fuggle.UK,0.0033,0.0032,0.0004,0.0005,0.0001,0.0005,0.0003,0.0004,0.0004,0.0002,0,0.0001,0.0002,0.0001,0.0003,0,0,0.0001,0,0,0,0,0,0,0,0,0,0,0

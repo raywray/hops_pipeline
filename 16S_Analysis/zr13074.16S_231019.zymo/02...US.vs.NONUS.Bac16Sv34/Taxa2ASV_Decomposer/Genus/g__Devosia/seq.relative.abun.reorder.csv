@@ -1,0 +1,12 @@
+sample_id,seq30 Devosia;insulae,seq96 Devosia;sp43554,seq117 Devosia;sp43547,seq196 Devosia;sp43545,seq230 Devosia;sp43545,seq396 Devosia;geojensis,seq457 Devosia;geojensis,seq488 Devosia;insulae-sp43545-sp43547,seq640 Devosia;insulae,seq1017 Devosia;insulae,seq1124 Devosia;sp43545,seq1376 Devosia;riboflavina-soli,seq1508 Devosia;sp43547,seq1663 Devosia;geojensis,seq2295 Devosia;insulae-sp43554,seq1938 Devosia;sp43554,seq2067 Devosia;sp43554,seq2994 Devosia;sp43547,seq2809 Devosia;ginsengisoli-insulae-sp43709,seq3136 Devosia;sp43554,seq3985 Devosia;insulae-sp43547,seq4356 Devosia;sp43535,seq4602 Devosia;insulae-sp43545-sp43547,seq5064 Devosia;ginsengisoli-insulae,seq4064 Devosia;ginsengisoli-insulae-sp43709,seq6938 Devosia;sp43547,seq6119 Devosia;sp43554,seq5179 Devosia;ginsengisoli-insulae-sp43547,seq5127 Devosia;insulae,seq5284 Devosia;geojensis,seq4533 Devosia;neptuniae-sp43705,seq5265 Devosia;insulae,seq5803 Devosia;sp43550,seq6290 Devosia;riboflavina,seq5756 Devosia;geojensis
+Control.CSUSM,0.0047,0.0011,0.001,0.0002,0,0.0007,0.0003,0.0003,0,0,0,0,0.0002,0.0002,0,0.0002,0,0.0002,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zeus.CSUSM,0.0027,0.002,0.0025,0.0014,0,0.0008,0.0008,0.0001,0,0.0014,0.0002,0,0,0,0,0,0,0,0,0.0001,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brewers.Gold.CSUSM,0.002,0.001,0.0017,0.0003,0.0002,0.0004,0.0001,0.0004,0,0,0,0,0,0,0,0,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neo1.CSUSM,0.0027,0.0012,0.0015,0.0005,0.0018,0.0004,0.0002,0.0004,0.0006,0,0,0,0.0004,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Comet.CSUSM,0.0047,0.0024,0.0016,0.0016,0,0.0005,0.0006,0.0006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Columbus.CSUSM,0.0045,0.0017,0.0012,0.0009,0.0005,0.0005,0.0004,0.0011,0,0,0,0.0006,0,0,0,0,0,0,0,0,0,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saaz72.CSUSM,0.0019,0.001,0.0003,0.0006,0.0013,0.0004,0.0001,0.0002,0.0006,0,0,0,0,0,0.0005,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sorachi.Ace.CSUSM,0.0048,0.0014,0.0026,0.0007,0,0.0007,0.0007,0.0002,0,0,0.0003,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Southern.Cross.CSUSM,0.0038,0.0037,0.0008,0.0025,0.0032,0.0005,0.0004,0.0003,0.0008,0,0.0005,0.0001,0.0003,0,0,0.0001,0.0003,0,0.0001,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hallertauer.CSUSM,0.0041,0.0026,0.0014,0.0008,0.0024,0.0002,0.0003,0.0001,0.0012,0,0.0002,0.0001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fuggle.UK,0.003,0.0015,0.0011,0.0009,0.0006,0,0.0004,0.0002,0,0.0006,0,0,0,0.0004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,49 @@
+seq_id	seq_identity(%)	ref_id	ref_taxonomy
+seq16	Mizugakiibacter;sp65150
+	99.5	ZR.DB.63845	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65150
+	98.8	ZR.DB.63843	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65152
+	96.0	ZR.DB.63844	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65151
+	95.8	ZR.DB.63853	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Pseudofulvimonas;s__sp65167
+	94.8	ZR.DB.63842	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65153
+	93.9	ZR.DB.63840	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__Mizugakiibacter sediminis
+	93.9	ZR.DB.63839	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__Mizugakiibacter sediminis
+	93.4	ZR.DB.63846	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65149
+	93.0	ZR.DB.63922	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Rhodanobacter;s__sp65242
+	93.0	ZR.DB.63745	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Luteibacter;s__sp65052
+	93.0	ZR.DB.63841	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65154
+	93.0	ZR.DB.63924	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Rhodanobacter;s__sp65240
+	92.5	ZR.DB.63848	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Oleiagrimonas;s__Oleiagrimonas soli
+	92.0	ZR.DB.63838	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Metallibacterium;s__Metallibacterium scheffleri
+	91.3	ZR.DB.63934	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Rhodanobacter;s__sp65231
+	91.3	ZR.DB.63857	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Pseudofulvimonas;s__sp65163
+	91.3	ZR.DB.64200	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__unidentified;s__sp65487
+	91.1	ZR.DB.64190	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__unidentified;s__sp65516
+	90.9	ZR.DB.63858	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Pseudofulvimonas;s__sp65164
+	90.6	ZR.DB.64210	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__unidentified;s__sp65491
+	90.6	ZR.DB.63700	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella koreensis
+	90.6	ZR.DB.64213	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__unidentified;s__sp65493
+	90.4	ZR.DB.63701	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella koreensis
+	90.2	ZR.DB.63697	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella fugitiva
+seq6185	Mizugakiibacter;sp65150
+	94.5	ZR.DB.63845	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65150
+	93.8	ZR.DB.63843	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65152
+	92.3	ZR.DB.63842	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65153
+	92.3	ZR.DB.63700	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella koreensis
+	92.3	ZR.DB.63701	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella koreensis
+	92.0	ZR.DB.63844	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65151
+	92.0	ZR.DB.63846	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65149
+	91.8	ZR.DB.63697	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella fugitiva
+	91.5	ZR.DB.64190	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__unidentified;s__sp65516
+	91.5	ZR.DB.63894	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Rehaibacterium;s__sp65201
+	91.3	ZR.DB.63853	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Pseudofulvimonas;s__sp65167
+	91.3	ZR.DB.63698	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella ginsengisoli
+	91.0	ZR.DB.63840	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__Mizugakiibacter sediminis
+	91.0	ZR.DB.63839	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__Mizugakiibacter sediminis
+	90.0	ZR.DB.45701	d__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__unidentified;g__unidentified;s__sp45800
+	90.0	ZR.DB.63656	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Aquimonas;s__Aquimonas voraii
+seq6379	Mizugakiibacter;sp65150
+	93.8	ZR.DB.63845	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65150
+	93.0	ZR.DB.63843	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Mizugakiibacter;s__sp65152
+	92.8	ZR.DB.63700	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella koreensis
+	92.8	ZR.DB.63701	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Dokdonella;s__Dokdonella koreensis
+	91.0	ZR.DB.63894	d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Rehaibacterium;s__sp65201
