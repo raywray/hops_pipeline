@@ -3,7 +3,7 @@ VCFtools - 0.1.16
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--vcf /home/raya/Documents/Projects/hops_pipeline/input_data/hops.vcf
 	--keep pop1.txt
 	--het
 	--stdout
@@ -20,7 +20,7 @@ VCFtools - 0.1.16
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--vcf /home/raya/Documents/Projects/hops_pipeline/input_data/hops.vcf
 	--keep pop2.txt
 	--het
 	--stdout
@@ -37,7 +37,7 @@ VCFtools - 0.1.16
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--vcf /home/raya/Documents/Projects/hops_pipeline/input_data/hops.vcf
 	--keep pop3.txt
 	--het
 	--stdout
@@ -54,7 +54,7 @@ VCFtools - 0.1.16
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--vcf /home/raya/Documents/Projects/hops_pipeline/input_data/hops.vcf
 	--keep pop4.txt
 	--het
 	--stdout

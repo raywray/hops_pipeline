@@ -3,7 +3,7 @@ VCFtools - 0.1.16
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--vcf /home/raya/Documents/Projects/hops_pipeline/data/hops.vcf
+	--vcf /home/raya/Documents/Projects/hops_pipeline/input_data/hops.vcf
 	--out output/stats/hops
 	--site-pi
 
