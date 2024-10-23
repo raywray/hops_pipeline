@@ -4,3 +4,6 @@
 [submodule "evolutionary_history/supercomputer_scripts"]
 	path = evolutionary_history/supercomputer_scripts
 	url = https://github.com/raywray/supercomputer_scripts.git
+[submodule "evolutionary_history/CoalMiner"]
+	path = evolutionary_history/CoalMiner
+	url = https://github.com/raywray/CoalMiner.git

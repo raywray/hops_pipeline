@@ -9,7 +9,7 @@ def execute_command(command_list):
 def get_statmix_stats():
     stats = ["hwe", "pop_structure", "sfs", "generic_stats", "fsc"]
     statmix_path = os.path.join("/home/raya/Documents/Projects/hops_pipeline/statMix", "statmix.py")
-    vcf_path = "/home/raya/Documents/Projects/hops_pipeline/input_data/hops.vcf"
+    vcf_path = "/home/raya/Documents/Projects/hops_pipeline/data/input/summary_statistics/hops.vcf"
     output_prefix = "hops"
 
     command = [
