@@ -1,3 +1,6 @@
 [submodule "statMix"]
 	path = statMix
 	url = https://github.com/raywray/statMix.git
+[submodule "evolutionary_history/supercomputer_scripts"]
+	path = evolutionary_history/supercomputer_scripts
+	url = https://github.com/raywray/supercomputer_scripts.git
