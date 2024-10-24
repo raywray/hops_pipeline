@@ -44,7 +44,7 @@ prefix=$(echo $PARAMS | cut -d ' ' -f 3)
 i=$(echo $PARAMS | cut -d ' ' -f 4)
 np=$(echo $PARAMS | cut -d ' ' -f 5)
 
-run_fsc_py="${project_path}/automated_cluster_commands/FSC_SCRIPT"
+run_fsc_py="${project_path}/evolutionary_history/cluster_scripts/FSC_SCRIPT"
 
 # Run your Python script with the parameters
 echo python3 $run_fsc_py $output_dir $project_path $prefix $i $np

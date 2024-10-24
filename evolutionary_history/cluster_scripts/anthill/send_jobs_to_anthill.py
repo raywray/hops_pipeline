@@ -20,7 +20,7 @@ def generate_job_scripts(job_manager):
         "scp",
         "-r",
         local_output_dir,
-        f"{job_manager.cluster_config.username}:{cluster_output_dir}"
+        f"{job_manager.get_cluster_username()}:{cluster_output_dir}"
     ]
     basic_utilities.execute_command(copy_models_to_cluster)
 
@@ -89,18 +89,18 @@ def send():
     submit_jobs_script = "/home/raya/Documents/Projects/hops_pipeline/evolutionary_history/cluster_scripts/anthill/recursive_submit_jobs.sh"
 
     # initialize job manager
-    job_manager = SupercomputerJobManager(
+    supercomputer_manager = SupercomputerJobManager(
         cluster_name=cluster,
         output_prefix=OUTPUT_PREFIX,
     )
 
     # setup dirs
-    job_manager.setup_directories()
+    supercomputer_manager.setup_directories()
 
     # generate and copy scripts
-    job_manager.generate_and_copy_scripts(generate_job_scripts, submit_jobs_script)
+    supercomputer_manager.generate_and_copy_scripts(generate_job_scripts, submit_jobs_script)
 
     # transfer scripts to cluter
-    job_manager.transfer_scripts_to_cluster()
+    supercomputer_manager.transfer_scripts_to_cluster()
 
 
