@@ -17,3 +17,5 @@ We created a reusable pipeline (statMix) that generates several summary statisti
 The commands we used to generate the summary statistics are found in `/summary_statistics/generate_summary_statistics.py`
 
 The results of these analyses are found in `/data/output/summary_statistics/statmix_output`
+
+The vcf used for the analysis is available upon request from the USDA
