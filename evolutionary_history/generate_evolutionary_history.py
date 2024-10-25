@@ -1,6 +1,11 @@
 import os
 
 from utilities import basic_utilities
+from cluster_scripts.anthill import send_jobs_to_anthill
+from cluster_scripts.ucr import send_jobs_to_ucr, find_best_models
+from fastsimcoal import bootstrap
+
+PREFIX = "hops"
 
 def generate_models_with_coalminer():
     # define paths
@@ -19,7 +24,6 @@ def generate_models_with_coalminer():
     basic_utilities.execute_command(copy_sfs_cmd)
 
     # run coalminer
-    # change into the coalminer dir
     os.chdir(coalminer_path)
     run_coalminer_cmd = [
         "python3",
@@ -28,13 +32,14 @@ def generate_models_with_coalminer():
     ]
     basic_utilities.execute_command(run_coalminer_cmd)
     
-
 def run_models_on_cluster():
-    print("cluster")
+    send_jobs_to_anthill.send()
+    send_jobs_to_ucr.send()
 
 def find_best_model():
-    print("best")
+    find_best_models.find()
+    # these will be output in data/output/evolutionary_history/fsc_output/best_models
 
 def run_bootstrap():
-    print("boot")
+    bootstrap.run(PREFIX)
     # @ARUN
